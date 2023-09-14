@@ -1,1 +1,2 @@
 tabs: [resistor_color.c, resistor_color.h]
+run-button: "g++ resistor_color.c -o resistor_color.out && ./resistor_color.out"
