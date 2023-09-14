@@ -1,1 +1,2 @@
 tabs: [collatz_conjecture.c, collatz_conjecture.h]
+run-button: "g++ collatz_conjecture.c -o collatz_conjecture.out && ./collatz_conjecture.out"
