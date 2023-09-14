@@ -1,1 +1,2 @@
 tabs: [palindrome_products.c, palindrome_products.h]
+run-button: "g++ palindrome_products.c -o palindrome_products.out && ./palindrome_products.out"
