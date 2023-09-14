@@ -1,1 +1,2 @@
 tabs: [luhn.c, luhn.h]
+run-button: "g++ luhn.c -o luhn.out && ./luhn.out"
