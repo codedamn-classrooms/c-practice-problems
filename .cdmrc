@@ -1,1 +1,2 @@
 tabs: [react.c, react.h]
+run-button: "g++ react.c -o react.out && ./react.out"
