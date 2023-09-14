@@ -1,1 +1,2 @@
 tabs: [clock.c, clock.h]
+run-button: "g++ clock.c -o clock.out && ./clock.out"
