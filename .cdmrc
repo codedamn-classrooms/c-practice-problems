@@ -1,1 +1,2 @@
 tabs: [two_bucket.c, two_bucket.h]
+run-button: "g++ two_bucket.c -o two_bucket.out && ./two_bucket.out"
