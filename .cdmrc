@@ -1,1 +1,2 @@
 tabs: [secret_handshake.c, secret_handshake.h]
+run-button: "g++ secret_handshake.c -o secret_handshake.out && ./secret_handshake.out"
