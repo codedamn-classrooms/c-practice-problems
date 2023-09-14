@@ -1,1 +1,2 @@
 tabs: [reverse_string.c, reverse_string.h]
+run-button: "g++ reverse_string.c -o reverse_string.out && ./reverse_string.out"
