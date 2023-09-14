@@ -1,1 +1,2 @@
 tabs: [bob.c, bob.h]
+run-button: "g++ bob.c -o bob.out && ./bob.out"
