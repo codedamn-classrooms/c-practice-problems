@@ -1,1 +1,2 @@
 tabs: [circular_buffer.c, circular_buffer.h]
+run-button: "g++ circular_buffer.c -o circular_buffer.out && ./circular_buffer.out"
