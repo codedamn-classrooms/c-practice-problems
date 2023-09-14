@@ -1,1 +1,2 @@
 tabs: [sum_of_multiples.c, sum_of_multiples.h]
+run-button: "g++ sum_of_multiples.c -o sum_of_multiples.out && ./sum_of_multiples.out"
