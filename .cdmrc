@@ -1,1 +1,2 @@
 tabs: [series.c, series.h]
+run-button: "g++ series.c -o series.out && ./series.out"
