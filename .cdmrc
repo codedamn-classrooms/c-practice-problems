@@ -1,1 +1,2 @@
 tabs: [gigasecond.c, gigasecond.h]
+run-button: "g++ gigasecond.c -o gigasecond.out && ./gigasecond.out"
