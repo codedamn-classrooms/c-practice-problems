@@ -1,1 +1,2 @@
 tabs: [complex_numbers.c, complex_numbers.h]
+run-button: "g++ complex_numbers.c -o complex_numbers.out && ./complex_numbers.out"
