@@ -1,1 +1,2 @@
 tabs: [rna_transcription.c, rna_transcription.h]
+run-button: "g++ rna_transcription.c -o rna_transcription.out && ./rna_transcription.out"
