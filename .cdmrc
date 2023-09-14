@@ -1,1 +1,2 @@
 tabs: [prime_factors.c, prime_factors.h]
+run-button: "g++ prime_factors.c -o prime_factors.out && ./prime_factors.out"
