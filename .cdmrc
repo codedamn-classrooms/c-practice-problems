@@ -1,1 +1,2 @@
 tabs: [run_length_encoding.c, run_length_encoding.h]
+run-button: "g++ run_length_encoding.c -o run_length_encoding.out && ./run_length_encoding.out"
