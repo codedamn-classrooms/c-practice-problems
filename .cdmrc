@@ -1,1 +1,2 @@
 tabs: [raindrops.c, raindrops.h]
+run-button: "g++ raindrops.c -o raindrops.out && ./raindrops.out"
