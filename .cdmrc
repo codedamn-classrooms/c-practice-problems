@@ -1,1 +1,2 @@
 tabs: [word_count.c, word_count.h]
+run-button: "g++ word_count.c -o word_count.out && ./word_count.out"
