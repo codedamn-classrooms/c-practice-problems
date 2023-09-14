@@ -1,1 +1,2 @@
 tabs: [space_age.c, space_age.h]
+run-button: "g++ space_age.c -o space_age.out && ./space_age.out"
