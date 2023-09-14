@@ -1,1 +1,2 @@
 tabs: [nth_prime.c, nth_prime.h]
+run-button: "g++ nth_prime.c -o nth_prime.out && ./nth_prime.out"
