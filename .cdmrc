@@ -1,1 +1,2 @@
 tabs: [queen_attack.c, queen_attack.h]
+run-button: "g++ queen_attack.c -o queen_attack.out && ./queen_attack.out"
