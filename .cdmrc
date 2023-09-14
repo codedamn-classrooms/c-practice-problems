@@ -1,1 +1,2 @@
 tabs: [list_ops.c, list_ops.h]
+run-button: "g++ list_ops.c -o list_ops.out && ./list_ops.out"
