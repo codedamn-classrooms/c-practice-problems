@@ -1,1 +1,2 @@
 tabs: [sublist.c, sublist.h]
+run-button: "g++ sublist.c -o sublist.out && ./sublist.out"
