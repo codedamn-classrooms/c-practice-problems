@@ -1,1 +1,2 @@
 tabs: [robot_simulator.c, robot_simulator.h]
+run-button: "g++ robot_simulator.c -o robot_simulator.out && ./robot_simulator.out"
