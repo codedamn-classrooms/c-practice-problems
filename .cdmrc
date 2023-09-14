@@ -1,1 +1,2 @@
 tabs: [pythagorean_triplet.c, pythagorean_triplet.h]
+run-button: "g++ pythagorean_triplet.c -o pythagorean_triplet.out && ./pythagorean_triplet.out"
