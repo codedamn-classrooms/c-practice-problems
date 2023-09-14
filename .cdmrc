@@ -1,1 +1,2 @@
 tabs: [phone_number.c, phone_number.h]
+run-button: "g++ phone_number.c -o phone_number.out && ./phone_number.out"
