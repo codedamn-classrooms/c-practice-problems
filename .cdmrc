@@ -1,1 +1,2 @@
 tabs: [hamming.c, hamming.h]
+run-button: "g++ hamming.c -o hamming.out && ./hamming.out"
