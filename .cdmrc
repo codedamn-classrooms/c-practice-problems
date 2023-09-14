@@ -1,1 +1,2 @@
 tabs: [acronym.c, acronym.h]
+run-button: "g++ acronym.c -o acronym.out && ./acronym.out"
