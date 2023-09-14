@@ -1,1 +1,2 @@
 tabs: [atbash_cipher.c, atbash_cipher.h]
+run-button: "g++ atbash_cipher.c -o atbash_cipher.out && ./atbash_cipher.out"
