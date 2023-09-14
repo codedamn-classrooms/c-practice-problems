@@ -1,1 +1,2 @@
 tabs: [leap.c, leap.h]
+run-button: "g++ leap.c -o leap.out && ./leap.out"
