@@ -1,1 +1,2 @@
 tabs: [pangram.c, pangram.h]
+run-button: "g++ pangram.c -o pangram.out && ./pangram.out"
