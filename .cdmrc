@@ -1,1 +1,2 @@
 tabs: [all_your_base.c, all_your_base.h]
+run-button: "g++ all_your_base.c -o all_your_base.out && ./all_your_base.out"
