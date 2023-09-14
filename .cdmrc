@@ -1,1 +1,2 @@
 tabs: [two_fer.c, two_fer.h]
+run-button: "g++ two_fer.c -o two_fer.out && ./two_fer.out"
