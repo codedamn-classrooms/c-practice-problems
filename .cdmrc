@@ -1,1 +1,2 @@
 tabs: [minesweeper.c, minesweeper.h]
+run-button: "g++ minesweeper.c -o minesweeper.out && ./minesweeper.out"
