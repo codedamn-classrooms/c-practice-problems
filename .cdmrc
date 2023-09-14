@@ -1,1 +1,2 @@
 tabs: [saddle_points.c, saddle_points.h]
+run-button: "g++ saddle_points.c -o saddle_points.out && ./saddle_points.out"
