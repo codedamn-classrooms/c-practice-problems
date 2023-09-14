@@ -1,1 +1,2 @@
 tabs: [etl.c, etl.h]
+run-button: "g++ etl.c -o etl.out && ./etl.out"
