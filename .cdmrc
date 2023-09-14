@@ -1,1 +1,2 @@
 tabs: [beer_song.c, beer_song.h]
+run-button: "g++ beer_song.c -o beer_song.out && ./beer_song.out"
