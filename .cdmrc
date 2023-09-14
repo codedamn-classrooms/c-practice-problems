@@ -1,1 +1,2 @@
 tabs: [difference_of_squares.c, difference_of_squares.h]
+run-button: "g++ difference_of_squares.c -o difference_of_squares.out && ./difference_of_squares.out"
