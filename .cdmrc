@@ -1,1 +1,2 @@
 tabs: [say.c, say.h]
+run-button: "g++ say.c -o say.out && ./say.out"
