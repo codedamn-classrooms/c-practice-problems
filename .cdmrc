@@ -1,1 +1,2 @@
 tabs: [binary_search_tree.c, binary_search_tree.h]
+run-button: "g++ binary_search_tree.c -o binary_search_tree.out && ./binary_search_tree.out"
