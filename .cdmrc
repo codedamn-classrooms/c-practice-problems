@@ -1,1 +1,2 @@
 tabs: [perfect_numbers.c, perfect_numbers.h]
+run-button: "g++ perfect_numbers.c -o perfect_numbers.out && ./perfect_numbers.out"
