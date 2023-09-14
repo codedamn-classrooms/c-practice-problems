@@ -1,1 +1,2 @@
 tabs: [isogram.c, isogram.h]
+run-button: "g++ isogram.c -o isogram.out && ./isogram.out"
