@@ -1,1 +1,2 @@
 tabs: [pascals_triangle.c, pascals_triangle.h]
+run-button: "g++ pascals_triangle.c -o pascals_triangle.out && ./pascals_triangle.out"
