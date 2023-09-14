@@ -1,1 +1,2 @@
 tabs: [wordy.c, wordy.h]
+run-button: "g++ wordy.c -o wordy.out && ./wordy.out"
