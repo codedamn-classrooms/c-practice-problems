@@ -1,1 +1,2 @@
 tabs: [largest_series_product.c, largest_series_product.h]
+run-button: "g++ largest_series_product.c -o largest_series_product.out && ./largest_series_product.out"
