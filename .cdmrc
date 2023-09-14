@@ -1,1 +1,2 @@
 tabs: [grade_school.c, grade_school.h]
+run-button: "g++ grade_school.c -o grade_school.out && ./grade_school.out"
