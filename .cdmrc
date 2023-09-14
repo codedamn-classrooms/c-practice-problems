@@ -1,1 +1,2 @@
 tabs: [binary_search.c, binary_search.h]
+run-button: "g++ binary_search.c -o binary_search.out && ./binary_search.out"
