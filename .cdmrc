@@ -1,1 +1,2 @@
 tabs: [crypto_square.c, crypto_square.h]
+run-button: "g++ crypto_square.c -o crypto_square.out && ./crypto_square.out"
