@@ -1,1 +1,2 @@
 tabs: [pig_latin.c, pig_latin.h]
+run-button: "g++ pig_latin.c -o pig_latin.out && ./pig_latin.out"
