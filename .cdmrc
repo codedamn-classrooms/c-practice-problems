@@ -1,1 +1,2 @@
 tabs: [matching_brackets.c, matching_brackets.h]
+run-button: "g++ matching_brackets.c -o matching_brackets.out && ./matching_brackets.out"
