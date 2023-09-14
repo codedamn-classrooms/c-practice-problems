@@ -1,1 +1,2 @@
 tabs: [rail_fence_cipher.c, rail_fence_cipher.h]
+run-button: "g++ rail_fence_cipher.c -o rail_fence_cipher.out && ./rail_fence_cipher.out"
