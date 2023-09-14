@@ -1,1 +1,2 @@
 tabs: [nucleotide_count.c, nucleotide_count.h]
+run-button: "g++ nucleotide_count.c -o nucleotide_count.out && ./nucleotide_count.out"
