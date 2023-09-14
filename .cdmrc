@@ -1,1 +1,2 @@
 tabs: [sieve.c, sieve.h]
+run-button: "g++ sieve.c -o sieve.out && ./sieve.out"
