@@ -1,1 +1,2 @@
 tabs: [binary.c, binary.h]
+run-button: "g++ binary.c -o binary.out && ./binary.out"
