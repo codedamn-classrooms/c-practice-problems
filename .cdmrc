@@ -1,1 +1,2 @@
 tabs: [anagram.c, anagram.h]
+run-button: "g++ anagram.c -o anagram.out && ./anagram.out"
