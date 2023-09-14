@@ -1,1 +1,2 @@
 tabs: [grains.c, grains.h]
+run-button: "g++ grains.c -o grains.out && ./grains.out"
