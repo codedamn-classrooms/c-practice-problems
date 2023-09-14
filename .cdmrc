@@ -1,1 +1,2 @@
 tabs: [allergies.c, allergies.h]
+run-button: "g++ allergies.c -o allergies.out && ./allergies.out"
