@@ -1,1 +1,2 @@
 tabs: [square_root.c, square_root.h]
+run-button: "g++ square_root.c -o square_root.out && ./square_root.out"
