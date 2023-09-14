@@ -1,1 +1,2 @@
 tabs: [roman_numerals.c, roman_numerals.h]
+run-button: "g++ roman_numerals.c -o roman_numerals.out && ./roman_numerals.out"
