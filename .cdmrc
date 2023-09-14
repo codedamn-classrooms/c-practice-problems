@@ -1,1 +1,2 @@
 tabs: [rational_numbers.c, rational_numbers.h]
+run-button: "g++ rational_numbers.c -o rational_numbers.out && ./rational_numbers.out"
