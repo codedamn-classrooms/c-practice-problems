@@ -1,1 +1,2 @@
 tabs: [armstrong_numbers.c, armstrong_numbers.h]
+run-button: "g++ armstrong_numbers.c -o armstrong_numbers.out && ./armstrong_numbers.out"
