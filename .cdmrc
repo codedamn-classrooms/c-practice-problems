@@ -1,1 +1,2 @@
 tabs: [scrabble_score.c, scrabble_score.h]
+run-button: "g++ scrabble_score.c -o scrabble_score.out && ./scrabble_score.out"
