@@ -1,4 +1,8 @@
 #ifndef SQUARE_ROOT_H
 #define SQUARE_ROOT_H
 
-#endif
+#include <stdint.h>
+
+uint16_t square_root(uint16_t radicand);
+
+#endif // SQUARE_ROOT_H
